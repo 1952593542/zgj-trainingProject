@@ -3,3 +3,4 @@
 前端登录的两个角色为:
 name: mangne        password:123456
 name:digibank       password:123456
+管理员登录的账号密码为： name：sa              password：123456
